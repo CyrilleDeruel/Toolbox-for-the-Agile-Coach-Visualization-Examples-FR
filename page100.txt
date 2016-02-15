@@ -1,5 +1,6 @@
 Daily Check-in
 
-Not everyone has the luxury of working in a co-located team but still depends on colleagues for discussions. You might for example be an agile coach collaborating a lot with other agile coaches and you want to easily see who else is in the office. 
+Tout le monde n'a le luxe de travailler dans une équipe de co-localisé. Vous pourriez par exemple être un coach agile et vouloir collaborer beaucoup avec d'autres coachs agiles et vous voudriez voir facilement qui d'autre est dans le bureau.
 
-When you arrive in the morning, you move your avatar to the current day, and when you leave you move it to “Not here”. To make the visualization more fun, why not use LEGO?
+Lorsque vous arrivez le matin, vous déplacez votre avatar pour la journée en cours et lorsque vous quittez vous le déplacez dans «Pas ici». 
+Pour rendre la visualisation plus agréable, pourquoi ne pas utiliser une brique LEGO® ?
